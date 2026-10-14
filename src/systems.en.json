@@ -1,0 +1,766 @@
+{
+  "schemaVersion": "1.0",
+  "contentVersion": "1.2-draft",
+  "purpose": "Resus.ie systems symptom screening; draft for clinical review, not diagnostic/triage guidance",
+  "responseOptions": [
+    "yes",
+    "no",
+    "dont_know",
+    "dont_understand"
+  ],
+  "timingPolicy": "Do not automatically ask timing after every positive answer. Show positive-answer summary; clinician selects symptoms for existing Time / Onset module. Urgent onset/last-known-well must be accessible immediately.",
+  "systems": [
+    {
+      "id": "general",
+      "label": "General symptoms",
+      "questionIds": [
+        "GEN01",
+        "GEN02",
+        "GEN03",
+        "GEN04",
+        "GEN05",
+        "GEN06"
+      ]
+    },
+    {
+      "id": "cardiovascular",
+      "label": "Heart and circulation",
+      "questionIds": [
+        "CVS01",
+        "CVS02",
+        "CVS03",
+        "CVS04",
+        "CVS05",
+        "CVS06",
+        "CVS07",
+        "CVS08"
+      ]
+    },
+    {
+      "id": "respiratory",
+      "label": "Breathing and lungs",
+      "questionIds": [
+        "RESP01",
+        "RESP02",
+        "RESP03",
+        "RESP04",
+        "RESP05",
+        "RESP06"
+      ]
+    },
+    {
+      "id": "gastrointestinal",
+      "label": "Stomach and bowels",
+      "questionIds": [
+        "GI01",
+        "GI02",
+        "GI03",
+        "GI04",
+        "GI05",
+        "GI06",
+        "GI07",
+        "GI08",
+        "GI09",
+        "GI10",
+        "GI11",
+        "GI12",
+        "GI13"
+      ]
+    },
+    {
+      "id": "genitourinary",
+      "label": "Urine and bladder",
+      "questionIds": [
+        "GU01",
+        "GU02",
+        "GU03",
+        "GU04",
+        "GU05",
+        "GU06",
+        "GU07",
+        "GU08",
+        "GU09"
+      ]
+    },
+    {
+      "id": "neurological",
+      "label": "Brain and nerves",
+      "questionIds": [
+        "NEURO01",
+        "NEURO02",
+        "NEURO03",
+        "NEURO04",
+        "NEURO05",
+        "NEURO06",
+        "NEURO07",
+        "NEURO08",
+        "NEURO09",
+        "NEURO10",
+        "NEURO11",
+        "NEURO12",
+        "NEURO13",
+        "NEURO14"
+      ]
+    },
+    {
+      "id": "ent",
+      "label": "Ears, nose and throat",
+      "questionIds": [
+        "ENT01",
+        "ENT02",
+        "ENT03",
+        "ENT04",
+        "ENT05",
+        "ENT06",
+        "ENT07",
+        "ENT08",
+        "ENT09",
+        "ENT10"
+      ]
+    },
+    {
+      "id": "musculoskeletal",
+      "label": "Bones, joints and muscles",
+      "questionIds": [
+        "MSK01",
+        "MSK02",
+        "MSK03",
+        "MSK04",
+        "MSK05",
+        "MSK06",
+        "MSK07"
+      ]
+    },
+    {
+      "id": "skin",
+      "label": "Skin",
+      "questionIds": [
+        "SKIN01",
+        "SKIN02",
+        "SKIN03",
+        "SKIN04",
+        "SKIN05",
+        "SKIN06",
+        "SKIN07",
+        "SKIN08"
+      ]
+    },
+    {
+      "id": "eyes",
+      "label": "Eyes and vision",
+      "questionIds": [
+        "EYE01",
+        "EYE02",
+        "EYE03",
+        "EYE04",
+        "EYE05",
+        "EYE06",
+        "EYE07",
+        "NEURO09",
+        "NEURO10"
+      ]
+    },
+    {
+      "id": "injury",
+      "label": "Injury and accidents",
+      "questionIds": [
+        "TRAUMA01",
+        "TRAUMA02",
+        "TRAUMA03",
+        "TRAUMA04",
+        "TRAUMA05",
+        "TRAUMA06",
+        "TRAUMA07",
+        "TRAUMA08",
+        "MSK06",
+        "MSK07",
+        "NEURO07",
+        "NEURO08"
+      ]
+    }
+  ],
+  "questions": {
+    "GEN01": {
+      "en": "Have you felt hot or feverish?",
+      "systems": [
+        "general"
+      ]
+    },
+    "GEN02": {
+      "en": "Have you been sweating a lot at night?",
+      "systems": [
+        "general"
+      ]
+    },
+    "GEN03": {
+      "en": "Have you lost weight without trying?",
+      "systems": [
+        "general"
+      ]
+    },
+    "GEN04": {
+      "en": "Have you felt more tired than usual?",
+      "systems": [
+        "general"
+      ]
+    },
+    "GEN05": {
+      "en": "Have you felt weaker than usual?",
+      "systems": [
+        "general"
+      ]
+    },
+    "GEN06": {
+      "en": "Have you been eating less than usual?",
+      "systems": [
+        "general"
+      ]
+    },
+    "CVS01": {
+      "en": "Have you had chest pain?",
+      "systems": [
+        "cardiovascular"
+      ]
+    },
+    "CVS02": {
+      "en": "Have you felt your heart beating very fast?",
+      "systems": [
+        "cardiovascular"
+      ]
+    },
+    "CVS03": {
+      "en": "Have you felt your heart skipping beats?",
+      "systems": [
+        "cardiovascular"
+      ]
+    },
+    "CVS04": {
+      "en": "Have you felt like you might faint?",
+      "systems": [
+        "cardiovascular"
+      ]
+    },
+    "CVS05": {
+      "en": "Have you fainted?",
+      "systems": [
+        "cardiovascular"
+      ]
+    },
+    "CVS06": {
+      "en": "Have you had difficulty breathing when lying flat?",
+      "systems": [
+        "cardiovascular"
+      ]
+    },
+    "CVS07": {
+      "en": "Have you woken up because you could not breathe?",
+      "systems": [
+        "cardiovascular"
+      ]
+    },
+    "CVS08": {
+      "en": "Have you noticed swelling in your legs?",
+      "systems": [
+        "cardiovascular"
+      ]
+    },
+    "RESP01": {
+      "en": "Have you had difficulty breathing?",
+      "systems": [
+        "respiratory"
+      ]
+    },
+    "RESP02": {
+      "en": "Have you had a cough?",
+      "systems": [
+        "respiratory"
+      ]
+    },
+    "RESP03": {
+      "en": "Have you coughed up mucus?",
+      "systems": [
+        "respiratory"
+      ]
+    },
+    "RESP04": {
+      "en": "Have you coughed up blood?",
+      "systems": [
+        "respiratory"
+      ]
+    },
+    "RESP05": {
+      "en": "Have you noticed unusual sounds when breathing?",
+      "systems": [
+        "respiratory"
+      ]
+    },
+    "RESP06": {
+      "en": "Have you had chest pain when taking a deep breath?",
+      "systems": [
+        "respiratory"
+      ]
+    },
+    "GI01": {
+      "en": "Have you had pain in your belly?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI02": {
+      "en": "Have you felt sick, like you might vomit?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI03": {
+      "en": "Have you vomited?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI04": {
+      "en": "Have you vomited blood?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI05": {
+      "en": "Have you had loose or watery stools?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI06": {
+      "en": "Have you had difficulty passing stools?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI07": {
+      "en": "Have you seen blood in your stools?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI08": {
+      "en": "Have your stools been black and sticky?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI09": {
+      "en": "Have you noticed swelling in your belly?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI10": {
+      "en": "Have you had difficulty swallowing food?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI11": {
+      "en": "Have you had pain when swallowing?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI12": {
+      "en": "Have you noticed yellowing of your eyes or skin?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GI13": {
+      "en": "Have you lost your appetite?",
+      "systems": [
+        "gastrointestinal"
+      ]
+    },
+    "GU01": {
+      "en": "Have you had pain when passing urine?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "GU02": {
+      "en": "Have you been passing urine more often than usual?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "GU03": {
+      "en": "Have you had a sudden urge to pass urine that was difficult to hold?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "GU04": {
+      "en": "Have you seen blood in your urine?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "GU05": {
+      "en": "Have you been passing less urine than usual?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "GU06": {
+      "en": "Have you been unable to pass urine?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "GU07": {
+      "en": "Have you had pain in your side or lower back?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "GU08": {
+      "en": "Have you leaked urine without meaning to?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "GU09": {
+      "en": "Have you been waking up at night to pass urine?",
+      "systems": [
+        "genitourinary"
+      ]
+    },
+    "NEURO01": {
+      "en": "Have you had a headache?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO02": {
+      "en": "Did your headache start suddenly?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO03": {
+      "en": "Was it the worst headache you have ever had?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO04": {
+      "en": "Have you felt like the room was spinning?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO05": {
+      "en": "Have you had difficulty speaking?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO06": {
+      "en": "Have you had difficulty understanding what people say?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO07": {
+      "en": "Have you noticed weakness in an arm or leg?",
+      "systems": [
+        "neurological",
+        "injury"
+      ]
+    },
+    "NEURO08": {
+      "en": "Have you noticed numbness in your face, arm or leg?",
+      "systems": [
+        "neurological",
+        "injury"
+      ]
+    },
+    "NEURO09": {
+      "en": "Have you suddenly lost your vision?",
+      "systems": [
+        "neurological",
+        "eyes"
+      ]
+    },
+    "NEURO10": {
+      "en": "Have you had blurry vision?",
+      "systems": [
+        "neurological",
+        "eyes"
+      ]
+    },
+    "NEURO11": {
+      "en": "Have you lost consciousness?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO12": {
+      "en": "Have you had shaking movements you could not control?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO13": {
+      "en": "Have you felt confused?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "NEURO14": {
+      "en": "Have you had difficulty walking?",
+      "systems": [
+        "neurological"
+      ]
+    },
+    "ENT01": {
+      "en": "Have you had ear pain?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT02": {
+      "en": "Have you had difficulty hearing?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT03": {
+      "en": "Have you heard ringing or buzzing in your ears?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT04": {
+      "en": "Have you had a sore throat?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT05": {
+      "en": "Have you had difficulty swallowing?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT06": {
+      "en": "Have you noticed a change in your voice?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT07": {
+      "en": "Have you had a nosebleed?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT08": {
+      "en": "Have you had pain in your face?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT09": {
+      "en": "Have you had a blocked nose?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "ENT10": {
+      "en": "Have you had a runny nose?",
+      "systems": [
+        "ent"
+      ]
+    },
+    "MSK01": {
+      "en": "Have you had pain in your joints?",
+      "systems": [
+        "musculoskeletal"
+      ]
+    },
+    "MSK02": {
+      "en": "Have you noticed swelling in your joints?",
+      "systems": [
+        "musculoskeletal"
+      ]
+    },
+    "MSK03": {
+      "en": "Have you had pain in your muscles?",
+      "systems": [
+        "musculoskeletal"
+      ]
+    },
+    "MSK04": {
+      "en": "Have you had difficulty moving an arm or leg?",
+      "systems": [
+        "musculoskeletal"
+      ]
+    },
+    "MSK05": {
+      "en": "Have you had pain when walking?",
+      "systems": [
+        "musculoskeletal"
+      ]
+    },
+    "MSK06": {
+      "en": "Have you had back pain?",
+      "systems": [
+        "musculoskeletal",
+        "injury"
+      ]
+    },
+    "MSK07": {
+      "en": "Have you had neck pain?",
+      "systems": [
+        "musculoskeletal",
+        "injury"
+      ]
+    },
+    "SKIN01": {
+      "en": "Have you noticed a rash on your skin?",
+      "systems": [
+        "skin"
+      ]
+    },
+    "SKIN02": {
+      "en": "Has your skin been itchy?",
+      "systems": [
+        "skin"
+      ]
+    },
+    "SKIN03": {
+      "en": "Have you noticed swelling of your lips?",
+      "systems": [
+        "skin"
+      ]
+    },
+    "SKIN04": {
+      "en": "Has your tongue felt swollen?",
+      "systems": [
+        "skin"
+      ]
+    },
+    "SKIN05": {
+      "en": "Have you noticed a change in your skin colour?",
+      "systems": [
+        "skin"
+      ]
+    },
+    "SKIN06": {
+      "en": "Have you noticed any new sores on your skin?",
+      "systems": [
+        "skin"
+      ]
+    },
+    "SKIN07": {
+      "en": "Has your skin been painful?",
+      "systems": [
+        "skin"
+      ]
+    },
+    "SKIN08": {
+      "en": "Have you noticed redness on your skin?",
+      "systems": [
+        "skin"
+      ]
+    },
+    "EYE01": {
+      "en": "Have you had eye pain?",
+      "systems": [
+        "eyes"
+      ]
+    },
+    "EYE02": {
+      "en": "Have you noticed redness in your eye?",
+      "systems": [
+        "eyes"
+      ]
+    },
+    "EYE03": {
+      "en": "Have you lost vision in one eye?",
+      "systems": [
+        "eyes"
+      ]
+    },
+    "EYE04": {
+      "en": "Have you been seeing double?",
+      "systems": [
+        "eyes"
+      ]
+    },
+    "EYE05": {
+      "en": "Does bright light hurt your eyes?",
+      "systems": [
+        "eyes"
+      ]
+    },
+    "EYE06": {
+      "en": "Have you injured your eye?",
+      "systems": [
+        "eyes"
+      ]
+    },
+    "EYE07": {
+      "en": "Have you felt like something was stuck in your eye?",
+      "systems": [
+        "eyes"
+      ]
+    },
+    "TRAUMA01": {
+      "en": "Have you been injured?",
+      "systems": [
+        "injury"
+      ]
+    },
+    "TRAUMA02": {
+      "en": "Did you fall?",
+      "systems": [
+        "injury"
+      ]
+    },
+    "TRAUMA03": {
+      "en": "Were you in a road accident?",
+      "systems": [
+        "injury"
+      ]
+    },
+    "TRAUMA04": {
+      "en": "Did you hit your head?",
+      "systems": [
+        "injury"
+      ]
+    },
+    "TRAUMA05": {
+      "en": "Did you black out after the injury?",
+      "systems": [
+        "injury"
+      ]
+    },
+    "TRAUMA06": {
+      "en": "Have you vomited since the injury?",
+      "systems": [
+        "injury"
+      ]
+    },
+    "TRAUMA07": {
+      "en": "Have you had numbness since the injury?",
+      "systems": [
+        "injury"
+      ]
+    },
+    "TRAUMA08": {
+      "en": "Have you had difficulty moving your arms or legs since the injury?",
+      "systems": [
+        "injury"
+      ]
+    }
+  }
+}
