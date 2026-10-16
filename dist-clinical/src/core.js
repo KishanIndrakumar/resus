@@ -1,0 +1,8 @@
+export const APP_VERSION='2.1.1';
+export function approved(entry,phrase){return !!entry && !!phrase && !phrase.requiresMapping && entry.status==='Human verified' && entry.sourceHash===phrase.sourceHash && entry.responseType===phrase.responseType && entry.speaker===phrase.speaker && !!entry.approval?.reviewer && !!entry.approval?.evidence && !!entry.approval?.policyVersion && !!entry.approval?.date;}
+export function translation(bundle,phrase,mode){const e=bundle?.entries?.[phrase.id];return e && e.sourceHash===phrase.sourceHash && e.speaker===phrase.speaker && e.responseType===phrase.responseType && (mode==='review'||approved(e,phrase)) ? e.text : null;}
+export function search(phrases,query){const synonyms={'blood thinner':'anticoagulant warfarin apixaban rivaroxaban','vomiting':'vomit','allergy':'allergies allergic','pregnant':'pregnancy pregnant','weakness':'weak weakness'};let q=query.trim().toLowerCase();if(!q)return phrases;const terms=[q,...(synonyms[q]||'').split(' ').filter(Boolean)];return phrases.filter(p=>terms.some(t=>`${p.id} ${p.english} ${p.category} ${p.subcategory}`.toLowerCase().includes(t)));}
+export function responseLabels(text){if(!text)return null;const parts=text.split(/\s*[/／]\s*/);return parts.length===4&&parts.every(p=>p.trim())?parts:null;}
+export function chooseVoice(voices,code){const exact=voices.find(v=>v.lang.toLowerCase()===code.toLowerCase());if(exact)return exact;return voices.find(v=>v.lang.split('-')[0]===code.split('-')[0])||null;}
+export function listFor(phrases,category,sub=''){return phrases.filter(p=>p.responseType!=='label'&&(!category||p.category===category)&&(!sub||p.subcategory===sub));}
+export function newSession(){return {responses:{},recent:[],asked:{},timings:{}};}
