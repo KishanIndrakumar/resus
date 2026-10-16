@@ -1,0 +1,3297 @@
+{
+  "schemaVersion": 1,
+  "registryVersion": "ec4d1c7a57432960",
+  "status": "Unverified — review drafts; review preview enabled by default",
+  "locales": {
+    "sq": {
+      "pain.constant": {
+        "text": "I vazhdueshëm",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Vjen dhe ikën",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Luaj",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Ndalo",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Regjistro përgjigjen",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Përkthyes",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Nuk mund ta përdor këtë shkallë dhimbjeje",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "am": {
+      "pain.constant": {
+        "text": "ያለማቋረጥ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "ይመጣል ይሄዳል",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "አጫውት",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "አቁም",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "መልሱን መዝግብ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "አስተርጓሚ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "ይህን የህመም መለኪያ መጠቀም አልችልም",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ar": {
+      "pain.constant": {
+        "text": "مستمر",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "يأتي ويذهب",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "تشغيل",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "إيقاف",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "تسجيل الإجابة",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "مترجم شفهي",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "لا أستطيع استخدام مقياس الألم هذا",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "bn": {
+      "pain.constant": {
+        "text": "একটানা",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "থেমে থেমে আসে",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "চালু করুন",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "থামান",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "উত্তর সংরক্ষণ করুন",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "দোভাষী",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "আমি এই ব্যথার মাপকাঠি ব্যবহার করতে পারছি না",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "bs": {
+      "pain.constant": {
+        "text": "Stalno",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Dolazi i prolazi",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Pusti",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Zaustavi",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Zabilježi odgovor",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Tumač",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Ne mogu koristiti ovu skalu bola",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "cs": {
+      "pain.constant": {
+        "text": "Stálá",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Přichází a odchází",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Přehrát",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Zastavit",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Zaznamenat odpověď",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Tlumočník",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Tuto stupnici bolesti nemohu použít",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "fa": {
+      "pain.constant": {
+        "text": "مداوم",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "می‌آید و می‌رود",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "پخش",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "توقف",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "ثبت پاسخ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "مترجم شفاهی",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "نمی‌توانم از این مقیاس درد استفاده کنم",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "fr": {
+      "pain.constant": {
+        "text": "Constante",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Va et vient",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Écouter",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Arrêter",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Enregistrer la réponse",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Interprète",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Je ne peux pas utiliser cette échelle de douleur",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "de": {
+      "pain.constant": {
+        "text": "Ständig",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Kommt und geht",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Abspielen",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Stoppen",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Antwort speichern",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Dolmetscher",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Ich kann diese Schmerzskala nicht verwenden",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "el": {
+      "pain.constant": {
+        "text": "Συνεχής",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Έρχεται και φεύγει",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Αναπαραγωγή",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Διακοπή",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Καταγραφή απάντησης",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Διερμηνέας",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Δεν μπορώ να χρησιμοποιήσω αυτή την κλίμακα πόνου",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "gu": {
+      "pain.constant": {
+        "text": "સતત",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "આવે છે અને બંધ થાય છે",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "વગાડો",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "બંધ કરો",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "જવાબ નોંધો",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "દુભાષિયો",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "હું આ પીડાનું માપક વાપરી શકતો નથી",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "hi": {
+      "pain.constant": {
+        "text": "लगातार",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "आता-जाता है",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "सुनाएँ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "रोकें",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "उत्तर दर्ज करें",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "दुभाषिया",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "मैं दर्द के इस पैमाने का उपयोग नहीं कर सकता",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "hu": {
+      "pain.constant": {
+        "text": "Állandó",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Jön és megy",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Lejátszás",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Leállítás",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Válasz rögzítése",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Tolmács",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Nem tudom használni ezt a fájdalomskálát",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ga": {
+      "pain.constant": {
+        "text": "Seasta",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Tagann sí agus imíonn sí",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Seinn",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Stop",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Taifead an freagra",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Ateangaire",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Ní féidir liom an scála péine seo a úsáid",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "it": {
+      "pain.constant": {
+        "text": "Costante",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Va e viene",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Riproduci",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Ferma",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Registra la risposta",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Interprete",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Non riesco a usare questa scala del dolore",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ja": {
+      "pain.constant": {
+        "text": "ずっと続く",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "痛くなったり治まったりする",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "再生",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "停止",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "回答を記録",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "通訳",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "この痛みの尺度は使えません",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ko": {
+      "pain.constant": {
+        "text": "계속됨",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "아팠다 안 아팠다 함",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "재생",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "정지",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "답변 기록",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "통역사",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "이 통증 척도를 사용할 수 없습니다",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ckb": {
+      "pain.constant": {
+        "text": "بەردەوام",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "دێت و دەچێت",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "لێدان",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "وەستاندن",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "تۆمارکردنی وەڵام",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "وەرگێڕ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "ناتوانم ئەم پێوەرەی ئازار بەکاربهێنم",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ln": {
+      "pain.constant": {
+        "text": "Ntango nyonso",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Eyaka mpe esilaka",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Yokisa",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Telemisa",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Komá eyano",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Mobongoli monɔkɔ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Nakoki te kosalela emekeli oyo ya mpasi",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "lt": {
+      "pain.constant": {
+        "text": "Nuolatinis",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Užeina ir praeina",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Paleisti",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Sustabdyti",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Įrašyti atsakymą",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Vertėjas žodžiu",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Negaliu naudotis šia skausmo skale",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "mk": {
+      "pain.constant": {
+        "text": "Постојана",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Доаѓа и поминува",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Пушти",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Запри",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Зачувај го одговорот",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Толкувач",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Не можам да ја користам оваа скала за болка",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "zh-CN": {
+      "pain.constant": {
+        "text": "持续疼痛",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "时痛时不痛",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "播放",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "停止",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "记录回答",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "口译员",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "我无法使用这个疼痛评分量表",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ps": {
+      "pain.constant": {
+        "text": "دوامداره",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "کله راځي او کله ځي",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "غږول",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "ودرول",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "ځواب ثبت کړئ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "ژباړن",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "زه د درد دا کچه نه شم کارولی",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "answer.unknown": {
+        "text": "ماته معلومه نه ده",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "context": "Distinguish not knowing from not understanding; source list is ambiguous."
+        }
+      },
+      "answer.not_understood": {
+        "text": "زه په پوښتنه نه پوهېږم",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "context": "Explicitly not understanding the question; candidate only."
+        }
+      }
+    },
+    "pl": {
+      "pain.constant": {
+        "text": "Stały",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Pojawia się i znika",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Odtwórz",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Zatrzymaj",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Zapisz odpowiedź",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Tłumacz ustny",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Nie mogę użyć tej skali bólu",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "pt": {
+      "pain.constant": {
+        "text": "Constante",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Vai e vem",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Reproduzir",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Parar",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Registar a resposta",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Intérprete",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Não consigo usar esta escala de dor",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "pa": {
+      "pain.constant": {
+        "text": "ਲਗਾਤਾਰ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "ਰੁਕ-ਰੁਕ ਕੇ ਆਉਂਦਾ ਹੈ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "ਚਲਾਓ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "ਰੋਕੋ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "ਜਵਾਬ ਦਰਜ ਕਰੋ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "ਦੁਭਾਸ਼ੀਆ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "ਮੈਂ ਦਰਦ ਦੇ ਇਸ ਪੈਮਾਨੇ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰ ਸਕਦਾ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ro": {
+      "pain.constant": {
+        "text": "Continuă",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Apare și dispare",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Redă",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Oprește",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Înregistrează răspunsul",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Interpret",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Nu pot folosi această scală a durerii",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ru": {
+      "pain.constant": {
+        "text": "Постоянная",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "То появляется, то проходит",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Воспроизвести",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Остановить",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Записать ответ",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Устный переводчик",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Я не могу пользоваться этой шкалой боли",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "sk": {
+      "pain.constant": {
+        "text": "Stála",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Prichádza a odchádza",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Prehrať",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Zastaviť",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Zaznamenať odpoveď",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Tlmočník",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Túto stupnicu bolesti nemôžem použiť",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "so": {
+      "pain.constant": {
+        "text": "Joogto ah",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Wuu yimaadaa wuuna tagaa",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Daar",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Jooji",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Diiwaangeli jawaabta",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Turjubaan",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Ma isticmaali karo cabbirkan xanuunka",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "es": {
+      "pain.constant": {
+        "text": "Constante",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Va y viene",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Reproducir",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Detener",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Registrar respuesta",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Intérprete",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "No puedo utilizar esta escala de dolor",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "sw": {
+      "pain.constant": {
+        "text": "Ya kudumu",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Yanakuja na kuondoka",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Cheza",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Simamisha",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Hifadhi jibu",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Mkalimani",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Siwezi kutumia kipimo hiki cha maumivu",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ta": {
+      "pain.constant": {
+        "text": "தொடர்ச்சியாக உள்ளது",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "விட்டு விட்டு வருகிறது",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "ஒலிக்கச் செய்",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "நிறுத்து",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "பதிலைப் பதிவு செய்",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "மொழிபெயர்ப்பாளர்",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "இந்த வலி அளவுகோலை என்னால் பயன்படுத்த முடியவில்லை",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "zh-TW": {
+      "pain.constant": {
+        "text": "持續疼痛",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "時痛時不痛",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "播放",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "停止",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "記錄回答",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "口譯員",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "我無法使用這個疼痛評分量表",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "tr": {
+      "pain.constant": {
+        "text": "Sürekli",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Gelip gidiyor",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Oynat",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Durdur",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Yanıtı kaydet",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Tercüman",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Bu ağrı ölçeğini kullanamıyorum",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "uk": {
+      "pain.constant": {
+        "text": "Постійний",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "То з’являється, то минає",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Відтворити",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Зупинити",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Записати відповідь",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Усний перекладач",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Я не можу користуватися цією шкалою болю",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "ur": {
+      "pain.constant": {
+        "text": "مسلسل",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "آتا جاتا ہے",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "سنائیں",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "روکیں",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "جواب درج کریں",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "مترجم",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "میں درد کا یہ پیمانہ استعمال نہیں کر سکتا",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    },
+    "vi": {
+      "pain.constant": {
+        "text": "Liên tục",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.comes_goes": {
+        "text": "Lúc đau lúc hết",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.play": {
+        "text": "Phát",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.stop": {
+        "text": "Dừng",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.record": {
+        "text": "Ghi lại câu trả lời",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "ui.interpreter": {
+        "text": "Thông dịch viên",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      },
+      "pain.unusable": {
+        "text": "Tôi không thể sử dụng thang điểm đau này",
+        "status": "AI draft",
+        "humanVerified": false,
+        "clinicallyApproved": false,
+        "provenance": {
+          "kind": "AI candidate",
+          "generatedBy": "Codex",
+          "date": "2026-10-16",
+          "context": "Standalone response/control label; requires independent linguistic and clinical review."
+        }
+      }
+    }
+  }
+}
